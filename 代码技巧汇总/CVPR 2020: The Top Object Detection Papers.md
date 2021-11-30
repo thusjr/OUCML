@@ -1,4 +1,4 @@
-# CVPR 2020: The Top Object Detection Papers
+# CVPR 2020 The Top Object Detection Papers
 
 转自 medium,原链接:
 
